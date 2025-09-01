@@ -65,6 +65,7 @@ It walks through the following steps:
   year={2025},
   publisher={Elsevier}
 }
+```
 
 ## 📄 License
 
