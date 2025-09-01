@@ -65,3 +65,14 @@ It walks through the following steps:
   year={2025},
   publisher={Elsevier}
 }
+
+## 📄 License
+
+This software is released under a **Research-Only Non-Commercial License**:
+
+- Free to use, copy, and modify **solely for internal, non-commercial research and evaluation purposes**.  
+- **Redistribution, sublicensing, and commercial use are not permitted.**  
+- For commercial licensing opportunities, please contact the authors.  
+- If you use this code in academic work, please cite the paper above.  
+
+See the [LICENSE](LICENSE) file for full terms.
